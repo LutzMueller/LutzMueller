@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I’m Lutz!
 
-<!--
-**LutzMueller/LutzMueller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical AI workflows that help knowledge workers produce high-quality results in less time.
 
-Here are some ideas to get you started:
+I make AI easier to apply to real work by turning capable tools into clear, repeatable workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m working on
+
+- Practical AI workflows
+- AI for everyday knowledge work
+- Better ways to use AI tools
+- Making complex technology easier to apply
+
+## Find me online
+
+[Personal website](https://www.lutz-mueller.com) ·
+[LinkedIn](https://www.linkedin.com/in/lutz-mueller/) ·
+[GitHub](https://github.com/LutzMueller)
