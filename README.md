@@ -1,8 +1,6 @@
 # Hey, I’m Lutz!
 
-I build practical AI workflows that help knowledge workers produce high-quality results in less time.
-
-I make AI easier to apply to real work by turning capable tools into clear, repeatable workflows.
+Building practical AI workflows that help business professionals produce high-quality results in less time. Making AI accessible, easy to understand, and simple to apply in everyday business work.
 
 ## What I’m working on
 
