@@ -1,16 +1,17 @@
-# Hey, I’m Lutz!
+# Hi, I'm Lutz.
 
-Building practical AI workflows that help business professionals produce high-quality results in less time. Making AI accessible, easy to understand, and simple to apply in everyday business work.
+## Practical AI for everyday work
 
-## What I’m working on
+I've helped teams find bottlenecks, improve how they work together, and deliver work sooner. I bring that same approach to AI: start with a real task, find what slows it down, and build a workflow that helps.
 
-- Practical AI workflows
-- AI for everyday knowledge work
-- Better ways to use AI tools
-- Making complex technology easier to apply
+On my website, I share practical examples you can use to produce high-quality work in less time.
+
+## What I'm working on
+
+- AI workflows for familiar work tasks
+- Ways to simplify repetitive steps and handoffs
+- Clear steps for using AI results in your work
 
 ## Find me online
 
-[Personal website](https://www.lutz-mueller.com) ·
-[LinkedIn](https://www.linkedin.com/in/lutz-mueller/) ·
-[GitHub](https://github.com/LutzMueller)
+[Personal website](https://www.lutz-mueller.com) · [LinkedIn](https://www.linkedin.com/in/lutz-mueller/) · [GitHub](https://github.com/LutzMueller)
